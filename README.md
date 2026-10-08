@@ -21,7 +21,8 @@ flowchart LR
 ```
 
 <!-- Add a screenshot of the architecture diagram or the live site here, e.g. ![Architecture](images/architecture.png) -->
-![Uploading image.png…]()
+![architecture](https://github.com/user-attachments/assets/9d93fca0-2d71-450f-8eee-bdd529e868d6)
+
 
 ---
 
