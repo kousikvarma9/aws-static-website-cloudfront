@@ -21,6 +21,7 @@ flowchart LR
 ```
 
 <!-- Add a screenshot of the architecture diagram or the live site here, e.g. ![Architecture](images/architecture.png) -->
+![Uploading image.png…]()
 
 ---
 
