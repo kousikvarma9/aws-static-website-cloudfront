@@ -1,4 +1,4 @@
-# Secure Static Website Hosting on AWS
+# Secure Static Website Deployment on AWS
 
 Production-style static website deployment on AWS: a **private S3 bucket** served globally through **CloudFront** with **Origin Access Control (OAC)**, HTTPS via **ACM**, DNS via **Route 53**, and monitoring and alerting through **CloudWatch and SNS**.
 
