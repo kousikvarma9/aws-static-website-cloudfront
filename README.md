@@ -21,7 +21,7 @@ flowchart LR
 ```
 
 <!-- Add a screenshot of the architecture diagram or the live site here, e.g. ![Architecture](images/architecture.png) -->
-<img width="2600" height="1160" alt="image" src="https://github.com/user-attachments/assets/dfac1625-426e-41f8-99c8-acd13767bb8f" />
+<img width="3600" height="2080" alt="aws-static-website-architecture" src="https://github.com/user-attachments/assets/1e86f35a-e003-437e-88ff-9481d919617a" />
 
 
 
