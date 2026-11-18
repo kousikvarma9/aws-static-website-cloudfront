@@ -5,7 +5,7 @@ Production-style static website deployment on AWS: a **private S3 bucket** serve
 **Live site:** [kousikvarma.tech](https://kousikvarma.tech)
 
 ---
-
+ 
 ## Architecture
 
 ```mermaid
